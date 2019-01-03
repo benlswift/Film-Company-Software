@@ -1,0 +1,9 @@
+Shrek, , comedy, 18/2/2003, London, English, 93, ,23000, EOL
+1,,Andrew Adamson,,,,,Mike Myres
+0
+James Bond, ,Thriller, 02/04/2010, London, English, 95, ,23456, EOL
+1,,, , ,Daniel Craig
+0
+E.T., ,comedy, 12/04/1995, London, English, 86, , 34567, EOL
+0,,,,,,,,
+0
